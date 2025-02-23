@@ -36,7 +36,7 @@ collections:
 navigation:
   - title: Home
     link: /
-  - title: 科研 Research
+  - title:  Research
     link: /research.html
   - title: 论文 Publications
     link: /publications.html
